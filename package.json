@@ -1,0 +1,17 @@
+{
+  "name": "koltbotv2",
+  "version": "2.0.0",
+  "description": "A overhauled version with tons of features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1"
+  }
+}
